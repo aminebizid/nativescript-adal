@@ -71,6 +71,7 @@ export class AdalContext {
   }
 
   public logout() {
-
+    const cache = this.context.getCache();
+    cache.removeAll();
   }
 }
