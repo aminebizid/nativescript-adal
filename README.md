@@ -7,6 +7,7 @@ Thanks to NavaraBV
 ## Prerequisites / Requirements
 
 Your application requires to be registered inside your Azure Active Directory (AAD). Visit the [Azure Portal](https://portal.azure.com) and log in with your organizational account. Grab your Azure AD Tenant ID and Application ID after registering your application.
+The ReplyUrl of your Azure SPA must be urn:ietf:wg:oauth:2.0:oob
 
 ## Installation
 
