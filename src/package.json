@@ -1,11 +1,11 @@
 {
     "name": "@aminebizid/nativescript-adal",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "description": "A NativeScript plugin for Microsoft's Active Directory Authentication Library.",
-    "author": "Yves Candel",
+    "author": "Yves Candel / Amine BIZID",
     "repository": {
         "type": "git",
-        "url": "https://github.com/NavaraBV/nativescript-adal.git"
+        "url": "https://github.com/aminebizid/nativescript-adal"
     },
     "license": "MIT",
     "main": "adal",
@@ -39,9 +39,9 @@
         "iOS"
     ],
     "bugs": {
-        "url": "https://github.com/NavaraBV/nativescript-adal/issues"
+        "url": "https://github.com/aminebizid/nativescript-adal/issues"
     },
-    "homepage": "https://github.com/NavaraBV/nativescript-adal",
+    "homepage": "https://github.com/aminebizid/nativescript-adal",
     "readmeFilename": "README.md",
     "devDependencies": {
         "tns-core-modules": "^3.1.0",
