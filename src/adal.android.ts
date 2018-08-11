@@ -69,4 +69,8 @@ export class AdalContext {
       );
     });
   }
+
+  public logout() {
+
+  }
 }

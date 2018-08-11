@@ -55,4 +55,8 @@ export class AdalContext {
       );
     });
   }
+
+  public logout() {
+    ADKeychainTokenCache.defaultKeychainCache().removeAllForClientIdError(this.clientId, this.authError);
+  }
 }
